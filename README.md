@@ -1,47 +1,34 @@
-# Proof of Skill
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## So MVP is the build and view of that core personal profile
-- any user can build a profile for themselves (if they have a wallet)
-- ideally the data is portable (on chain like ceramic DID based data)
-- have a custom personal data section
-- have an educational profile
-- have a professional profile (might not be MVP)
-- view page for a profile based on an input address
-- edit page for your profile (assuming logged in with your wallet)
-  - do your basicProfile
-  - add your addresses
-- education profile stuff should also include some manner of free text entry to
-cover meatspace education
-- tech stack: copy paste from developerdao.com
-  - next
-  - react
-  - chakra
-  - next-i18next
-  - ...whatever we're using with our web3 integration
+## Getting Started
 
-## education profile
-- _buildspace
-- questbook
-- off-chain data as a proof of oracle work (maybe a step too far, but github)
+First, run the development server:
 
-## custom personal data
-- ceramic `basicProfile` plus `addresses`
-- whatever other data we need (if there is other data we need)
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-# if we want to build something, we should see if there can be a standard like humans.txt for web3
-## shortfalls
-- working in a team and only 1 person gets the deploy credit
-- work on a repo that the team is anonymous on (so don't take credit dumbass)
-- i think we don't have to try to solve this entirely (as it's a part of resume stuff anyway)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-# research considerations
-- lots of educational NFTs are built on polygon, see if we can capture that in The Graph
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-questbook may be able to invest this? but have some feeling that they will have
-ownership or something
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-# Action
-Dhaiwat is creating the repo on developer-dao
-Dhaiwat set up the core components per developerdao.com
-initialize Ceramic stack to allow for input/output of
-questbook may be able to invest this? but have some feeling that they will have ownership or something
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
