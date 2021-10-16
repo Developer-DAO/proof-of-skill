@@ -37,8 +37,7 @@ cover meatspace education
 # research considerations
 - lots of educational NFTs are built on polygon, see if we can capture that in The Graph
 
-questbook may be able to invest this? but have some feeling that they will have
-ownership or something
+Questbook are potential investors! So we might think about making this a sub-DAO or a DAO backed by Developer DAO and Questbook (Will discuss about it more when MVP is ready)!
 
 # Action
 Dhaiwat is creating the repo on developer-dao
