@@ -31,16 +31,16 @@ cover meatspace education
 # if we want to build something, we should see if there can be a standard like humans.txt for web3
 ## shortfalls
 - working in a team and only 1 person gets the deploy credit
-- work on a repo that the team is anonymous on (so don't take credit dumbass)
+- work on a repo that the team is anonymous on
 - i think we don't have to try to solve this entirely (as it's a part of resume stuff anyway)
 
 # research considerations
 - lots of educational NFTs are built on polygon, see if we can capture that in The Graph
 
-Questbook are potential investors! So we might think about making this a sub-DAO or a DAO backed by Developer DAO and Questbook (Will discuss about it more when MVP is ready)!
+Questbook has an interest in this, once we have an MVP we should reengage
 
 # Action
 Dhaiwat is creating the repo on developer-dao
 Dhaiwat set up the core components per developerdao.com
-initialize Ceramic stack to allow for input/output of
+initialize Ceramic stack to allow for input/output
 questbook may be able to invest this? but have some feeling that they will have ownership or something
