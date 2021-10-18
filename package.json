@@ -9,11 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@3id/connect": "^0.2.5",
+    "@ceramicnetwork/3id-did-resolver": "^1.4.4",
+    "@ceramicnetwork/http-client": "^1.4.0",
     "@chakra-ui/react": "^1.6.10",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "axios": "^0.23.0",
+    "dids": "^2.4.0",
+    "ethers": "^5.4.7",
     "framer-motion": "^4",
+    "key-did-resolver": "^1.4.0",
     "moralis": "^0.0.95",
     "next": "11.1.2",
     "next-i18next": "^8.9.0",
