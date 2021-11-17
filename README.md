@@ -18,6 +18,9 @@ cover meatspace education
   - chakra
   - next-i18next
   - ...whatever we're using with our web3 integration
+  - possible integration with github to obtain statistics / activity? e.g.
+    - breakdown of stacks used - 45% JavaScipt, 10% Python, 33% Solidity, etc...
+    - display other repos contributed to
 
 ## education profile
 - _buildspace
